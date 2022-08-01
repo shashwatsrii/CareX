@@ -1,0 +1,18 @@
+.containerFE{
+    display: flex;
+    padding-left: 8rem;
+    padding-bottom: 5rem;
+    padding-right: 8rem;
+}
+.containerleftFE{
+    display: flex;
+    flex-direction: column;
+    padding-right: 5rem;
+}
+.HeadingFutEnd{
+    width: 20%;
+}
+.ImageFutureEndeavours{
+    width: 35vw;
+    height: 44vh;
+}

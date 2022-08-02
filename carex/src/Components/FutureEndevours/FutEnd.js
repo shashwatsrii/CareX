@@ -15,7 +15,7 @@ function FutEnd() {
                 </div>
             </div>
             <div className='containerrightFE'>
-                <img className='ImageFutureEndeavours' src={FutureEndeavour} />
+                <img className='ImageFutureEndeavours' src={FutureEndeavour}  alt='Future Endeavours'/>
             </div>
         </div>
     </>

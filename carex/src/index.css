@@ -7,12 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1{
+  color: #18BD54;
+  font-size: 4rem;
+  margin-block-start: 0em;
+}
+
 h2{
   font-size: 2rem;
 }
 
 h3{
   font-size: 1.5rem;
+}
+
+p{
+  color: #0E6B30;
+  font-weight: 600;
+  font-size: 1.2rem;
 }
 
 code {

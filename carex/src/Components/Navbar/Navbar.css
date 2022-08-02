@@ -1,18 +1,33 @@
 nav{
-    background-color: gray;
-    
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 5rem;
 }
-
+.Logo{
+    border: 3px solid #18BD54;
+    border-radius: 15px;
+    padding: 1.5vh;
+}
 .Nav-Links{
     display: flex;
 }
-.Nav-Links > div{
-    padding: 0.5rem 2rem;
+.Nav-Link{
+    border-radius: 7px;
+    padding: 0.5rem 1.3rem;
+    margin: 0 0.35rem;
+    transition: all 0.3s ease;
 }
-.Empty{
+/* .Empty{
     height: 45vh;
+} */
+.Nav-Links > div:hover{
+    background-color: #CBFFDE;
+}
+.Nav-Link_App{
+    background-color: #18BD54;
+    border-radius: 20px;
+    padding: 0.5rem 2rem;
+    margin: 0 0.35rem;
+    transition: all 0.3s ease;
 }

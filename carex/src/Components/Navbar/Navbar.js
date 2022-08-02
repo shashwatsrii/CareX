@@ -1,13 +1,14 @@
 import React from 'react'
 import './Navbar.css'
 
+import Logo from '../Assets/nav_logo.svg'
+
 function Navbar() {
   return (
     <>
     <nav>
-        Hello
         <div className='Nav-Logo'>
-
+            <img src={Logo} alt='logo'  className='Logo'/>
         </div>
         <div className='Nav-Links'>
             <div className='Nav-Link'>
@@ -25,8 +26,8 @@ function Navbar() {
             <div className='Nav-Link'>
                 Help
             </div>
-            <div className='Nav-Link'>
-                Get App
+            <div className='Nav-Link_App'>
+                A/I Get App
             </div>
         </div>
     </nav>

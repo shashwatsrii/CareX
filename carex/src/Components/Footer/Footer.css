@@ -1,20 +1,26 @@
 footer{
     height: 45vh;
-    background-color: gray;
-
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+}
+.Logo{
+    border: 3px solid #18BD54;
+    border-radius: 15px;
+    padding: 1.5vh;
 }
 .Copyright_Tab{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     cursor: pointer;
+
+    padding: 1em 0;
+    color: #25AC56;
 }
 h3{
     padding: 0.5rem;
     cursor: pointer;
+    color: #0E6B30;
 }
 ul{
     padding-inline-start: 0;
@@ -23,4 +29,5 @@ li{
     list-style: none;
     padding: 0.5rem;
     font-size: 1.2rem;
+    color: #17A74B;
 }

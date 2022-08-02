@@ -1,11 +1,13 @@
 import React from 'react'
 import './Footer.css'
+import Logo from '../Assets/nav_logo.svg'
+
 function Footer() {
   return (
     <footer>
         <div className='Copyright_Tab'>
             <div className='Footer-Logo'>
-
+                <img src={Logo} alt='logo'  className='Logo'/>
             </div>
             <h4>
             @2022 CareX Pvt. Ltd.<br/>

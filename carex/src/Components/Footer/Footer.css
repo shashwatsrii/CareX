@@ -31,3 +31,6 @@ li{
     font-size: 1.2rem;
     color: #17A74B;
 }
+li:hover{
+    text-decoration: underline;
+}

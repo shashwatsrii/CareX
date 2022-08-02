@@ -1,0 +1,21 @@
+.Landing-Images{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Landing-Images>img{
+    width: max-content;
+}
+.Landing-Images>div{
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Care-Text{
+    margin: -5rem 0 0 5rem;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #0E6B30 ;
+}

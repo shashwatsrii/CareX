@@ -11,7 +11,8 @@ function FutEnd() {
                     <h1>Future Endeavours</h1>
                 </div>
                 <div className='textFutEnd'>
-                    lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1       et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1  et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1       et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ...
+                    <p>
+                    lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1       et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1  et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1       et ipsum dolor siteset  etc ... lorem ipsum dolor sit amet, consectetur adipiscing elementsv1 et ipsum dolor siteset  etc ...</p>
                 </div>
             </div>
             <div className='containerrightFE'>

@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: #0E6B30;
+}
+
+.FounderBox{
+    height: 43vh;
+    width: 25vw;
+    background-color: #BAFFD3;
+    border-radius: 20px;
+    margin: 4rem 2rem;
+}
+.Founders-Box{
+    display: flex;
+    justify-content: center;
+}

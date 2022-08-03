@@ -1,0 +1,90 @@
+.ContactContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 1rem;
+    margin: 5rem 0;
+}
+.HeadingContactContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.UnderTextContactUs{
+    padding-bottom: 2rem;
+}
+.BoxContactContainer{
+    background-color: #18BD54;
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+    padding: 2rem;
+    color: white;
+    border-radius: 8px;
+}
+.BoxContactLeftContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 5rem;
+}
+.WhiteBoxVisitUs{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 5px;
+    background-color: white;
+}
+.VisitUsText{
+    font-weight:700;
+    font-size: 1.5rem;
+}
+.VisitUsUnderText{
+    font-size: 0.8rem;
+    padding-bottom: 1rem;
+}
+.BoxContactRightContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-right: 5rem;
+}
+.MessageUsText{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.HeadingCU{
+    font-size: 0.8rem;
+}
+.inputCU{
+    padding: 0.5rem;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+.MessageTextarea{
+    height: 5rem;
+    width: 10rem; 
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 0.5rem;
+    outline: none;
+    border: none;
+}
+.SubmitButton{
+    margin-top: 5%;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 0.5rem 4rem;
+    border-radius: 5px;
+    font-family: inherit;
+    cursor: pointer;
+    
+}
+
+input{
+    outline: none;
+    border: none;
+}
